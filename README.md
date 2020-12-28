@@ -60,3 +60,14 @@ clear
 figlet EROR 404 | lolcat
 sleep 2
 clear
+echo
+echo "╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮╭╮╮╱▔▔▔▔╲╭╭╮" | lolcat
+echo "╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯╰╲╲▏▂╲╱▂▕╱╱╯" | lolcat
+echo "┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈┈┈╲▏▇▏▕▇▕╱┈┈" | lolcat
+echo "┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈┈┈╱╲▔▕▍▔╱╲┈┈" | lolcat
+echo "╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮╭╱╱▕╋╋╋╋▏╲╲╮" | lolcat
+echo "╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯╰╯╯┈╲▂▂╱┈╰╰╯" | lolcat
+echo
+echo
+echo "Langsung Salin Bro python2 crackfb.py" | lolcat
+© 2020 GitHub, Inc.
